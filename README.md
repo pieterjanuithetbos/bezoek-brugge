@@ -1,6 +1,6 @@
 # Wat te doen, zien en beleven in Brugge?
 
-## Nieuws en evenementenj 
+## Nieuws en evenementen 
 
 - [Gitaarconcert Alexander Makay](https://www.brugge.be/activiteiten/alexander-makay-recuerdos-de-espana)
 
@@ -10,20 +10,20 @@
     - van 8:00 tot 13:30
 
 - Folkloremarkt Dijver
-    - _Verkoop tweedehands koopwaar van minstens vijftig jaar oud en zelfvervaardigde afgewerkte producten van een folkloristisch of kunstberoep_
+    - Verkoop tweedehands koopwaar van minstens vijftig jaar oud en zelfvervaardigde afgewerkte producten van een folkloristisch of kunstberoep
 
-- De bijaard speelt sinds kort [nieuwe melodiën](https://www.brugge.be/nieuws/brugse-beiaard-krijgt-nieuwe-melodieen) heeft. Het mechanische systeem, dat dateert uit 1748, kent zijn beperkingen, waardoor ritmische precisie niet altijd mogelijk is. Voor de zwaarste basklok is het wachten tot het kwartier voor het uur. Dan speelt immers de **verrassingssymfonie** van Joseph Haydn.
+- De bijaard speelt sinds kort [nieuwe melodiën](https://www.brugge.be/nieuws/brugse-beiaard-krijgt-nieuwe-melodieen). Het mechanische systeem, dat dateert uit 1748, kent zijn beperkingen, waardoor ritmische precisie niet altijd mogelijk is. Voor de zwaarste basklok is het wachten tot het kwartier voor het uur. Dan speelt immers de **verrassingssymfonie** van Joseph Haydn.
 
-## De twaalf klassiekers
+## Enekele klassiekers
 
-### Het begijnhof
+### 1. Het begijnhof
 De kloostertuin werd gesticht in 1245 en is vandaag gratis te bezoeken. Er wonen nog enkele Benedictijnse zusters, enkele zusters van de Orde Sint Vincentius A Paulo en enkele alleenstaande vrouwen. Werelderfgoed.
 
-### De Brugse Reien
+### 2. De Brugse Reien
 Ontlenen hun naam aan de [Reie](https://nl.wikipedia.org/wiki/Reie), die vroeger door de stad stroomde.
 ### Concertgebouw
 
-### De Burg
+### 3. De Burg
 
 Het majestueuze plein dat 'afgezoomd is met monumentale pronkgebouwen': de Basiliek van het Heilig Bloed, het Landhuis, het Brugse Vrije en de Proosdij. 
 Een architectuursamenvatting op één plein.
@@ -44,7 +44,7 @@ Het relikwie van het Heilig Bloed dat er wordt bewaard, wordt elk jaar met Hemel
 Voor de resten de in 1799 afgebroken Sint-Donaaskathedraal, moet je je begeven naar de kelders van het Crowne Plaza hotel.
 
 
-### Vlaamse Primitieven
+### 4. Vlaamse Primitieven
 
 De kunst uit de 15de eeuw, de gouden eeuw van Brugge, hangt niet alleen in musea (het Groeningemuseum, Museum Sint-Janshospitaal), maar ook in kerken.
 In de O.L.V. Kerk vind je bijvoorbeeld een 'Madonna met Kind' van Michelangelo, maar ook:
@@ -60,19 +60,19 @@ Een overzicht van andere werken en waar ze te vinden:
 - **Hof Bladelin**
 - **Kerk en Klooster van de Ongeschoeide Karmelieten**
 
-### Godshuizen
+### 5. Godshuizen
 
-### Gruuthusemuseum
+### 6. Gruuthusemuseum
 
-### Hanzekwartier
+### 7. Hanzekwartier
 
-### Markt
+### 8. Markt
 
-### Minnewater
+### 9. Minnewater
 
-### Museum van de O.L.V-kerk
+### 10. Museum van de O.L.V-kerk
 
-### Rozenhoedkaai
+### 11. Rozenhoedkaai
 
 ## Erfgoed
 ## de Guido Gezellestad
