@@ -12,7 +12,7 @@
 - Folkloremarkt Dijver
     - Verkoop tweedehands koopwaar van minstens vijftig jaar oud en zelfvervaardigde afgewerkte producten van een folkloristisch of kunstberoep
 
-- De bijaard speelt sinds kort [nieuwe melodiën](https://www.brugge.be/nieuws/brugse-beiaard-krijgt-nieuwe-melodieen). Het mechanische systeem, dat dateert uit 1748, kent zijn beperkingen, waardoor ritmische precisie niet altijd mogelijk is. Voor de zwaarste basklok is het wachten tot het kwartier voor het uur. Dan speelt immers de **verrassingssymfonie** van Joseph Haydn.
+- De bijaard speelt sinds kort [nieuwe melodiën](https://www.brugge.be/nieuws/brugse-beiaard-krijgt-nieuwe-melodieen). Het mechanische systeem, dat dateert uit 1748, kent zijn beperkingen, waardoor ritmische precisie niet altijd mogelijk is. Voor de zwaarste basklok is het wachten tot het kwartier voor het uur. Dan speelt immers de verrassingssymfonie van Joseph Haydn.
 
 ## Enekele klassiekers
 
@@ -57,8 +57,15 @@ _disclaimer: de kerk kost 10 euro voor volwassenen_
 
 Een overzicht van andere werken en waar ze te vinden:
 - **Adornesdomein en Jeruzalemkapel**
-- **Hof Bladelin**
-- **Kerk en Klooster van de Ongeschoeide Karmelieten**
+- **[Hof Bladelin](https://www.visitbruges.be/nl/wat-te-doen/cultuur-en-erfgoed/hof-bladelin)**
+    Het hof was eens een luxeresidenti, bankfiliaal en klooster. Nu zijn er te bewonderen: 
+        - geschilderde balksleutels met wapens van invloedrijke figuren uit de 15de eeuw, 
+        - 15de-eeuwse medaillons van het echtpaar Lorenzo de' Medici en Clarice Orsini, waarvan de twee _tondo's_ tot de vroegste renaissancewerken in Brugge behoren.
+        - de classicistische kapel
+        - een kamer van een zuster ... (dixit de VisitBruges)
+    _voor 10 euro te bezoeken_
+- **Kerk en Klooster van de Ongeschoeide Karmelieten**: 
+    waar nog steeds een actief kloosterleven geleid wordt. Het bezoeken waard zijn de ommuurde tuin, de refter en de bibliotheek. Meer info over de oorsprong van de Karmelietenorde in de 13de eeuw, of de barokke pracht van de Karmelietenkerk, leze het op de [website](https://www.visitbruges.be/nl/wat-te-doen/cultuur-en-erfgoed/kerk-en-klooster-van-de-ongeschoeide-karmelieten-sacred-books-secret-libraries).
 
 ### 5. Godshuizen
 
@@ -83,3 +90,7 @@ Een overzicht van andere werken en waar ze te vinden:
 
 
 ## Eten
+
+## Varia
+
+- Het Engels klooster biedt een gratis toilet.
